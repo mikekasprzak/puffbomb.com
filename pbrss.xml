@@ -1,0 +1,71 @@
+<rss version="2.0">
+<channel>
+	<title>PuffBOMB.com Feed</title>
+	<link>http://www.puffbomb.com</link>
+	<description>It's a game.  Come play.</description>
+	<pubDate>Wed, 24 Sep 2008 07:00:00 +0000</pubDate>
+	<generator>By hand :D</generator>
+	<language>en</language>
+	<item>
+		<title>Redesigned PuffBOMB.com</title>
+		<link>http://www.puffbomb.com</link>
+		<guid>http://www.puffbomb.com?0</guid>
+		<pubDate>Wed, 24 Sep 2008 07:00:00 +0000</pubDate>
+		<description>
+			A new site... finally.
+		</description>
+	</item>
+
+	<item>
+		<title>Shhh!  MacOS X prototype is out.  PowerPC+Panther (10.3+).</title>
+		<link>http://www.puffbomb.com</link>
+		<guid>http://www.puffbomb.com?1</guid>
+		<pubDate>Fri, 23 Jun 2006 22:00:00 +0000</pubDate>
+		<description>
+			Hey!  You know that MacOS X port we all forgot about?  Yeah, it exists now.
+		</description>
+	</item>
+
+	<item>
+		<title>Download an all new Prototype today.  Windows.</title>
+		<link>http://www.puffbomb.com</link>
+		<guid>http://www.puffbomb.com?2</guid>
+		<pubDate>Sun, 25 Sep 2005 12:00:00 +0000</pubDate>
+		<description>
+			The new PuffBOMB is in progress.  To hold you over, we've added a supped up version of the classic for download.  MacOS X, and a forum for sharing custom maps coming soon...
+			
+			Download and Play an all new enhanced version of the classic 2003 PuffBOMB Prototype Today!
+		</description>
+	</item>
+
+	<item>
+		<title>September Teaser</title>
+		<link>http://www.puffbomb.com</link>
+		<guid>http://www.puffbomb.com?3</guid>
+		<pubDate>Sun, 25 Sep 2005 12:00:00 +0000</pubDate>
+		<description>
+			Yes, robots too.  Intrigued?
+		</description>
+	</item>
+	
+	<item>
+		<title>IGF entries are up 'eh?</title>
+		<link>http://www.puffbomb.com</link>
+		<guid>http://www.puffbomb.com?4</guid>
+		<pubDate>Wed, 21 Sep 2005 12:00:00 +0000</pubDate>
+		<description>
+			How does the weekend sound?
+		</description>
+	</item>
+	
+	<item>
+		<title>pb.com teaser site now live</title>
+		<link>http://www.puffbomb.com</link>
+		<guid>http://www.puffbomb.com?5</guid>
+		<pubDate>Sun, 11 Sep 2005 12:00:00 +0000</pubDate>
+		<description>
+			Teaser site is now live.  As the IGF progresses, we'll be ready to share more with you soon.  Stay tuned.
+		</description>
+	</item>
+</channel>
+</rss>
